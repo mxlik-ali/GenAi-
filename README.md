@@ -24,7 +24,7 @@ Ensure you have Python installed on your machine. Additionally, you'll need acce
 
 1. Clone the repo
    ```sh
-   git clone https://github.com/kongruige/2024GenAIHackathon.git
+   git clone https://github.com/mxlik-ali/GenAi-.git
 
 2. Install required Python packages
 pip install -r requirements.txt
