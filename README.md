@@ -1,10 +1,10 @@
-# GenSaaS: AutoCraft
+# GenAi
 
-GenSaaS: AutoCraft leverages a multi-agent architecture integrated with GPT API to automate the software development process, making it accessible and affordable for startups and small businesses. This innovative platform enables users to upload their specific database and requirements, upon which our system crafts tailored software solutions.
+GenAi leverages a multi-agent architecture integrated with GPT API to automate the software development process, making it accessible and affordable for startups and small businesses. This innovative platform enables users to upload their specific database and requirements, upon which our system crafts tailored software solutions.
 
 ## About The Project
 
-Inspired by the challenge many startups face in affording a full software engineering team, GenSaaS: AutoCraft aims to democratize software development. By utilizing a multi-agent system powered by GPT API, we provide a scalable, cost-effective solution that adapts to a company's unique needs, offering everything from simple scripts to complex applications.
+Inspired by the challenge many startups face in affording a full software engineering team, GenAi aims to democratize software development. By utilizing a multi-agent system powered by GPT API, we provide a scalable, cost-effective solution that adapts to a company's unique needs, offering everything from simple scripts to complex applications.
 
 ### Built With
 
@@ -32,7 +32,7 @@ pip install -r requirements.txt
 3. Set your OpenAI API key in your environment variables or directly in the script where it's needed.
 
 ### Usage
-GenSaaS: AutoCraft is designed to be intuitive for users, allowing them to input their project requirements and database information directly into the system. For a detailed guide on how to use the platform for your specific needs, refer to the documentation provided.
+GenAi is designed to be intuitive for users, allowing them to input their project requirements and database information directly into the system. For a detailed guide on how to use the platform for your specific needs, refer to the documentation provided.
 
 ### Contributing
 Contributions are what make the open-source community such an amazing place to learn, inspire, and create. Any contributions you make are greatly appreciated.
